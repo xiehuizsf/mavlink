@@ -1,0 +1,16 @@
+/home/likewise-open/NONLIN/huix/lib/mavlink/CMakeFiles/ardupilotmega.xml-v0.9.dir
+/home/likewise-open/NONLIN/huix/lib/mavlink/CMakeFiles/ardupilotmega.xml-v1.0.dir
+/home/likewise-open/NONLIN/huix/lib/mavlink/CMakeFiles/common.xml-v0.9.dir
+/home/likewise-open/NONLIN/huix/lib/mavlink/CMakeFiles/common.xml-v1.0.dir
+/home/likewise-open/NONLIN/huix/lib/mavlink/CMakeFiles/matrixpilot.xml-v1.0.dir
+/home/likewise-open/NONLIN/huix/lib/mavlink/CMakeFiles/minimal.xml-v0.9.dir
+/home/likewise-open/NONLIN/huix/lib/mavlink/CMakeFiles/minimal.xml-v1.0.dir
+/home/likewise-open/NONLIN/huix/lib/mavlink/CMakeFiles/pixhawk.xml-v0.9.dir
+/home/likewise-open/NONLIN/huix/lib/mavlink/CMakeFiles/pixhawk.xml-v1.0.dir
+/home/likewise-open/NONLIN/huix/lib/mavlink/CMakeFiles/sensesoar.xml-v1.0.dir
+/home/likewise-open/NONLIN/huix/lib/mavlink/CMakeFiles/slugs.xml-v0.9.dir
+/home/likewise-open/NONLIN/huix/lib/mavlink/CMakeFiles/slugs.xml-v1.0.dir
+/home/likewise-open/NONLIN/huix/lib/mavlink/CMakeFiles/test.xml-v0.9.dir
+/home/likewise-open/NONLIN/huix/lib/mavlink/CMakeFiles/test.xml-v1.0.dir
+/home/likewise-open/NONLIN/huix/lib/mavlink/CMakeFiles/ualberta.xml-v0.9.dir
+/home/likewise-open/NONLIN/huix/lib/mavlink/CMakeFiles/ualberta.xml-v1.0.dir
